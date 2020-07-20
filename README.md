@@ -11,8 +11,8 @@ http://www.templatemo.com/tm-514-magazee
 -->
   <!-- load CSS -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">    <!-- Google web font "Open Sans" -->
-  <link rel="stylesheet" href="css/bootstrap.min.css">                                        <!-- https://getbootstrap.com/ -->
-  <link rel="stylesheet" href="css/templatemo-style.css">                                     <!-- Templatemo style -->
+  <link rel="stylesheet" href="bootstrap.min.css">                                        <!-- https://getbootstrap.com/ -->
+  <link rel="stylesheet" href="templatemo-style.css">                                     <!-- Templatemo style -->
 
 </head>
 
@@ -54,7 +54,7 @@ http://www.templatemo.com/tm-514-magazee
 <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 p-0">
   <div class="tm-flex-center p-5 tm-bg-color-primary">
     <div class="tm-max-w-400 tm-flex-center tm-flex-col">
-      <img src="img/image-04.jpg" alt="Image" class="rounded-circle mb-4">
+      <img src="image-04.jpg" alt="Image" class="rounded-circle mb-4">
       <p class="tm-text-color-white small tm-font-thin mb-0">Seek opportunity to start a professional career with the long-term aim of working.</p>
     </div>
   </div>
@@ -64,7 +64,7 @@ http://www.templatemo.com/tm-514-magazee
 <!-- 3rd Section -->
 <section class="row tm-section tm-mb-30">
   <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 p-0 text-center">
-    <img src="img/image-01.jpg" alt="Image" class="img-fluid">
+    <img src="image-01.jpg" alt="Image" class="img-fluid">
   </div>
   <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
     <div class="tm-flex-center p-5">
@@ -93,14 +93,14 @@ http://www.templatemo.com/tm-514-magazee
  </div>
 </div>
 <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 text-xl-right text-md-center text-center mt-5 mt-lg-0 pr-lg-0">
- <img src="img/image-02.jpg" alt="Image" class="img-fluid">
+ <img src="image-02.jpg" alt="Image" class="img-fluid">
 </div>
 </section>
 
 <!-- 5th Section -->
 <section class="row tm-section tm-mb-30">
   <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 p-md-0 text-md-center text-center mb-4 mb-lg-0">
-   <img src="img/image-03.jpg" alt="Image" class="img-fluid">
+   <img src="image-03.jpg" alt="Image" class="img-fluid">
  </div>
  <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 pl-lg-4 pr-xl-0 mb-4 mb-lg-0">
   <div class="tm-flex-center">
