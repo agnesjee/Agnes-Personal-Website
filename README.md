@@ -1,179 +1,105 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<html>
+    <head>
+        <title>0339809 - Agnes Jee Chian Hwa</title>
+        <link type="text/css" rel="stylesheet" href="resume.css" /> 
 
-  <title>Magazee HTML5 Template Mo</title>
-<!-- 
-Magazee Template 
-http://www.templatemo.com/tm-514-magazee
--->
-  <!-- load CSS -->
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">    <!-- Google web font "Open Sans" -->
-  <link rel="stylesheet" href="bootstrap.min.css">                                        <!-- https://getbootstrap.com/ -->
-  <link rel="stylesheet" href="templatemo-style.css">                                     <!-- Templatemo style -->
-
-</head>
-
-<body>
-  <!-- Loader -->
-  <div id="loader-wrapper">
-    <div id="loader"></div>
-    <div class="loader-section section-left"></div>
-    <div class="loader-section section-right"></div>
-  </div>
-
- <div class="container">
-
-  <!-- 1st section -->
-  <section class="row tm-section">
-   <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 p-0">
-    <div class="tm-flex-center p-5 tm-bg-color-primary tm-section-min-h">
-      <h1 class="tm-text-color-white tm-site-name">E-Resume</h1>
-    </div>
-  </div>
-  <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
-    <div class="tm-flex-center p-5">
-      <q class="tm-quote tm-text-color-gray">Seeking Graduate-Level Opportunity in IT Consultancy Firm</q>
-    </div>
-  </div>
-</section>
-
-<!-- 2nd section -->
-<section class="row tm-section tm-col-md-reverse">
- <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
-  <div class="tm-flex-center p-5">
-    <div class="tm-md-flex-center">
-      <h2 class="tm-text-color-primary mb-4">About</h2>
-      <p class="mb-4">Personable and astute student with proven time-management and collaborative skills developed. Highly articulate individual, confident working with diverse cultures and situations in which cultural awareness and appreciation are integral.</p>
-      <a href="#" class="btn btn-primary float-lg-right tm-md-align-center">Read more</a>
-    </div>
-  </div>
-</div>
-<div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 p-0">
-  <div class="tm-flex-center p-5 tm-bg-color-primary">
-    <div class="tm-max-w-400 tm-flex-center tm-flex-col">
-      <img src="image-04.jpg" alt="Image" class="rounded-circle mb-4">
-      <p class="tm-text-color-white small tm-font-thin mb-0">Seek opportunity to start a professional career with the long-term aim of working.</p>
-    </div>
-  </div>
-</div>
-</section>
-
-<!-- 3rd Section -->
-<section class="row tm-section tm-mb-30">
-  <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 p-0 text-center">
-    <img src="image-01.jpg" alt="Image" class="img-fluid">
-  </div>
-  <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
-    <div class="tm-flex-center p-5">
-      <div class="tm-flex-center tm-flex-col">
-        <h2 class="tm-align-left">Personal Info</h2>
-        <p>Date of birth: 31.08.2000<br/>
-        Nationality: Malaysian<br/>
-        Address: Sarawak, Malaysia<br/></p>
-        <a href="#" class="btn btn-primary">Read More</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- 4th Section -->
-<section class="row tm-section tm-mb-30">
- <div class="col-sm-12 col-md-12 col-lg-8 col-xl-8">
-  <div class="tm-flex-center pl-5 pr-5 pt-5 pb-5">
-    <div class="tm-md-flex-center">
-     <h2 class="mb-4 tm-text-color-primary">Personal Attributes</h2>
-     <p>Effective communication skills. Articulate communicator with an appreciation for the different communication styles required when working with team members or customers.</p>
-     <p class="mb-4">Honest and reliable. Strong morals and ethics ensuring honesty, reliability and ability to responsibly undertake tasks.</p>
-     <p class="mb-4">Time management. Dedication to effective prioritisation and management of time by allocating tasks and recording activities in diaries and daily to-do lists.</p>
-     <a href="#" class="btn btn-primary float-lg-right tm-md-align-center">Read More</a>
-   </div>
- </div>
-</div>
-<div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 text-xl-right text-md-center text-center mt-5 mt-lg-0 pr-lg-0">
- <img src="image-02.jpg" alt="Image" class="img-fluid">
-</div>
-</section>
-
-<!-- 5th Section -->
-<section class="row tm-section tm-mb-30">
-  <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 p-md-0 text-md-center text-center mb-4 mb-lg-0">
-   <img src="image-03.jpg" alt="Image" class="img-fluid">
- </div>
- <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 pl-lg-4 pr-xl-0 mb-4 mb-lg-0">
-  <div class="tm-flex-center">
-   <div class="tm-pricing-table">
-    <div class="tm-bg-color-secondary tm-text-color-white text-center tm-font-thin tm-pricing-header">
-      <p class="mb-0 tm-pricing-header-title">Key Skills</p>
-    </div>
-    <div class="tm-pricing-body">
-      <ul class="tm-feature-list">
-        <li>Research</li>
-        <li>Scheduling</li>
-        <li>Presentation</li>
-        <li>Proposal development</li>
-        <li>Report development</li>
-        <li>Statistical analysis</li>
-      </ul>
-      <a href="#" class="btn btn-secondary">Read more</a>
-    </div>
-  </div>
-</div>
-</div>
-<div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 pl-xl-0 mb-4 mb-lg-0">
-  <div class="tm-flex-center">
-   <div class="tm-pricing-table">
-    <div class="tm-bg-color-secondary tm-text-color-white text-center tm-font-thin tm-pricing-header">
-      <p class="mb-0 tm-pricing-header-title">Programming Languages</p>
-    </div>
-    <div class="tm-pricing-body">
-      <ul class="tm-feature-list">
-        <li>Java</li>
-        <li>C++</li>
-        <li>HTML, CSS, and Javascript</li>
-        <li>SQL commands</li>
-      </ul>
-      <a href="#" class="btn btn-secondary">View project</a>
-    </div>
-  </div>
-</div>
-</div>
-</section>
-
-
-  <div class="col-lg-12 tm-bg-color-gray tm-text-color-white tm-font-thin tm-form-footer">
-    <div class="row tm-container-inner">
-      <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
-        <div class="tm-footer-info-box">
-          <h4>Lorem ipsum dolor</h4>
-          <address>
-            1010 Vivamaus viverra<br>
-            Leo vel porttitor sodales<br>
-            Non eleifend 10980
-          </address>
+    </head>
+    <body>
+        <div class="main">
+            <br><br>
+            <img src="image2.jpg" alt="Profile Picture" class="image" />
+            <h1 class="name">Agnes Jee Chian Hwa</h1><br>
+            <h4 class="info">
+                Email: agnesjee106@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;<br>
+                Mobile: 6010-9778699 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <br>
+                <br>
+            </h4>
         </div>
-      </div>
-      <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
-        <div class="tm-footer-info-box">
-          <p>Maecenas fermentum<br>
-          Nam eu justo et urna<br>
-          Semper maximus libero<br>
-          Etiam magna quam</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+        
+        <h3 class="text">Seeking Graduate-Level Opportunity in IT Consultancy Firm</h3>
+        <p>  Personable and astute student with proven time-management and collaborative skills developed.
+             Highly articulate individual, confident working with diverse cultures and situations in which cultural awareness and appreciation are integral. 
+             Strong academic background, maintaining above-average results.
+             Knowledgeable and keen graduate with solid theoretical computer science background understanding and some practical experience. 
+             Seeking opportunity to start a professional career with the long-term aim of working as a IT consultant.
+        </p>
+        <br><br>
 
-<!-- Footer -->
-<div class="row">
-  <div class="col-lg-12">
-    <p class="text-center small tm-copyright-text mb-0">Copyright &copy; <span class="tm-current-year">2018</span> Your Company Name | Designed by Template Mo</p>
-  </div>
-</div>
-</div>
+        <h3 class="text">NAVIGATION</h3>
+        <ul class="list">
+            <li><a href="#section1">Personal Info</a></li><br>
+            <li><a href="#section2">Key Skills</a></li><br>
+            <li><a href="#section3">Achievements</a></li><br>
+            <li><a href="#section4">Educational Qualification</a></li><br>
+            <li><a href="#section5">Personal Attributes</a></li><br>
+        </ul>
 
-</body>
+        <h3 class="line" id="section1">PERSONAL INFO</h3>
+        <p class="text">
+            <b>Date of Birth:</b>&nbsp;&nbsp;&nbsp;&nbsp; 31.08.2000<br>
+            <b>Nationality&nbsp;&nbsp;:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Malaysian<br>
+            <b>Address&nbsp;&nbsp;:</b>&nbsp;&nbsp; Sarawak, Malaysia<br>
+            <b>Phone Number:</b>&nbsp;&nbsp; 6010-9778699<br>
+            <b>Email Address:</b>&nbsp;&nbsp;&nbsp; <a href="mailto:agnesjee106@gmail.com?subject=Reply">agnesjee106@gmail.com</a><br>
+        </p>
+        <br>
+
+        <h3 class="line" id="section2">KEY SKILLS</h3>
+        <ul type="square" class="list">
+            <li>Research</li>
+            <li>Scheduling</li>
+            <li>Presentation</li>
+            <li>Proposal development</li>
+            <li>Report development</li>
+            <li>Statistical analysis</li>
+        </ul>
+        <br>
+        <p class="list"><b>Programming Languages:</b> 
+            <ul class="list">
+                <li>Java</li>
+                <li>C++</li>
+                <li>HTML &amp; CSS</li>
+                <li>SQL</li>
+            </ul>
+        </p>
+        <br>
+
+        <h3 class="line" id="section3">ACHIEVEMENTS</h3>
+        <ul class="list">
+            <li>Volunteered in "My Digital Maker Fair 2019" organised by Malaysia Digital Economy Corporation(MDEC)</li>
+            <li>Participated in "Hilti IT Competition 2019"</li>
+            <li>Participated in "Alibaba Get Global Challenge 2020"</li>
+        </ul>
+        <br><br>
+
+        <h3 class="line" id="section4">EDUCATIONAL QUALIFICATION</h3>
+        <table border="1" cellspacing="0" cellpadding="10" class="tab text">
+            <tr>
+                <td>Degree</td>
+                <td>University</td>
+                <td>Year</td>
+            </tr>
+            <tr>
+                <td>Bachelor of Information Technology(Hons)</td>
+                <td>Taylor's University</td>
+                <td>2019-2022</td>
+            </tr>
+        </table>
+        <br><br>        
+
+        <h3 class="line" id="section5">PERSONAL ATTRIBUTES</h3>
+            <p> i. <b>Effective Communication Skills</b><br>
+                -Articulate communicator with an appreciation for the different communication styles required when working with team members or customers. <br><br>
+                ii. <b>Honest and Reliable</b><br>
+                -Strong morals and ethics ensuring honesty, reliability and ability to responsibly undertake tasks. <br><br>
+                iii. <b>Flexible</b><br>
+                -Understanding of the need for flexibility in order to support last-minute demands and changes. Comfortable with changing environments and situations, ensuring ability to remain flexible and adaptable at all times. <br><br>
+                iv. <b>Time Management</b><br>
+                -Dedication to effective prioritisation and management of time by allocating tasks and recording activities in diaries and daily to-do lists. <br><br>
+            </p>
+
+        
+    </body>
 </html>
