@@ -10,7 +10,7 @@
             <img src="image2.jpg" alt="Profile Picture" class="image" />
             <h1 class="name">Agnes Jee Chian Hwa</h1><br>
             <h4 class="info">
-                Email: agnesjee106@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+                Email: agnesjee106@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
                 Mobile: 6010-9778699 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <br>
                 <br>
