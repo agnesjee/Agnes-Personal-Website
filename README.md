@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <title>0339809 - Agnes Jee Chian Hwa</title>
@@ -11,7 +10,7 @@
             <img src="image2.jpg" alt="Profile Picture" class="image" />
             <h1 class="name">Agnes Jee Chian Hwa</h1><br>
             <h4 class="info">
-                Email: agnesjee106@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;<br>
+                Email: agnesjee106@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
                 Mobile: 6010-9778699 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <br>
                 <br>
@@ -19,7 +18,7 @@
         </div>
         
         <h3 class="text">Seeking Graduate-Level Opportunity in IT Consultancy Firm</h3>
-        <p>  Personable and astute student with proven time-management and collaborative skills developed.
+        <p class="paragraph">  Personable and astute student with proven time-management and collaborative skills developed.
              Highly articulate individual, confident working with diverse cultures and situations in which cultural awareness and appreciation are integral. 
              Strong academic background, maintaining above-average results.
              Knowledgeable and keen graduate with solid theoretical computer science background understanding and some practical experience. 
