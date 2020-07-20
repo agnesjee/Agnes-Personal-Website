@@ -31,6 +31,7 @@ body {
     text-align: right;
     color: rgba(255, 255, 255, 0.8);
     border-color: transparent;
+    margin-top: 0px;
 }
 
 .paragraph {
