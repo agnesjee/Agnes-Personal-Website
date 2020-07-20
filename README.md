@@ -127,7 +127,6 @@ http://www.templatemo.com/tm-514-magazee
    <div class="tm-pricing-table">
     <div class="tm-bg-color-secondary tm-text-color-white text-center tm-font-thin tm-pricing-header">
       <p class="mb-0 tm-pricing-header-title">Programming Languages</p>
-      <p class="mb-0 tm-pricing-header-subtitle">($40 per month)</p>
     </div>
     <div class="tm-pricing-body">
       <ul class="tm-feature-list">
