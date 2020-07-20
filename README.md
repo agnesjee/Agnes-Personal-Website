@@ -83,7 +83,7 @@
             </tr>
             <tr>
                 <td>Bachelor of Information Technology(Hons)</td>
-                <td>Taylor's University</td>
+                <td>Taylor's University, with partnership with University of West England (double degree)</td>
                 <td>2019-2022</td>
             </tr>
         </table>
